@@ -1,3 +1,7 @@
 *~
 .envrc
 .direnv
+.history
+~*.lck
+*-backups/
+*-cache
